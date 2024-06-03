@@ -1,5 +1,6 @@
 # EXERCISE SESSION IN R
-# Exercise 1
+
+### Exercise 1 ###
 x <- c(2, 0, 9, 4, 14, -6, 9)
 
 # a.
@@ -18,7 +19,7 @@ y <- x[3:6]
 sum(y)
 
 
-# Exercise 2
+### Exercise 2 ###
 n <- 7
 p <- 0.10 
 
@@ -38,7 +39,7 @@ dbinom(2, size = n, prob = p)
 # d.
 1 - pbinom(1, size = n, prob = p)
 
-# Exercise 3
+### Exercise 3 ###
 mu <- 1060; sigma <- 217
 
 # a.
